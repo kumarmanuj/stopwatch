@@ -4,22 +4,21 @@
 
 <br />
 
-### Overview
+## Overview
 
 A Stopwatch web application is a simple yet useful tool that allows users to measure elapsed time with precision.
 
 
-### Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Technologies Used](#technologies)
 - [License](#license)
-- [Credits](#credits)
 - [Contact](#contact)
 
-### Features
+## Features
 
 This web-based stopwatch application provides a user-friendly interface for tracking time with start, stop, and reset functionality. Key features include:
  * Accurate Timing: Measures time in hours, minutes, seconds
@@ -27,11 +26,11 @@ This web-based stopwatch application provides a user-friendly interface for trac
  * Responsive Design: Works seamlessly across desktop and mobile devices
  * Pause and Resume: Ability to pause the timer and continue from where it left off
 
-### Screenshots
+## Screenshots
 
 ![StopWatch](./public/images/stopwatch.png "Optional Title")
 
-### Installation
+## Installation
 
 ### Step 1. Clone the repository:
   ```
@@ -68,7 +67,7 @@ npm test
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Step 5. Build:
+### Step 6. Build:
 ```
 npm run build
 ```
@@ -82,18 +81,16 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-### Technologies 
+## Technologies 
 - React
 - JavaScript
 - Html
 - CSS
 
 
-### License
+## License
 This project is licensed under the [MIT License](./LICENSE)
 
-### Credits
-- Developer: Manuj Kumar
 
 ### Contact
 For any inquiries or feedback, feel free to reach out:
