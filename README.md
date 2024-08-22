@@ -92,7 +92,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 This project is licensed under the [MIT License](./LICENSE)
 
 
-### Contact
+## Contact
 For any inquiries or feedback, feel free to reach out:
 
 - Email: [yomanuj@gmail.com](mailto:yomanuj@gmail.com)
