@@ -4,11 +4,13 @@
 
 <br />
 
-![StopWatch](./public/images/stopwatch.png "Optional Title")
+
 
 ## Overview
 
 A Stopwatch web application is a simple yet useful tool that allows users to measure elapsed time with precision.
+
+![StopWatch](./public/images/stopwatch.png "Optional Title")
 
 ## Table of Contents
 
